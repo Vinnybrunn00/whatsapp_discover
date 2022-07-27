@@ -4,6 +4,20 @@ A tool for getting phone numbers of devices using Whatsapp by real time sniffing
 
 ---
 
+# Installing perl dependencies for ubuntu
+### OBS
+
+If these dependencies are not installed, **whatsapp_discover.pl** will not work.
+
+## libnet-pcap-perl
+	$ sudo apt-get install libnet-pcap-perl
+## libnetpacket-perl
+	$ sudo apt-get install -y libnetpacket-perl
+
+	
+
+	
+
 ### Note 
 
 This code has been released as a PoC, and it does not pretend to be a hacking malicious tool. That is why real time sniffing has been disabled in this first version, to prevent from script kiddies. 
@@ -18,6 +32,9 @@ Deepak Daswani
 [@dipudaswani](http://twitter.com/dipudaswani)
 
 [http://deepakdaswani.es](http://deepakdaswani.es)
+
+### Author's github
+https://github.com/deepakdaswani/whatsapp_discover
 
 ### Usage
 
