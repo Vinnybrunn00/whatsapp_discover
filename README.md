@@ -13,11 +13,7 @@ If these dependencies are not installed, **whatsapp_discover.pl** will not work.
 	$ sudo apt-get install libnet-pcap-perl
 ## libnetpacket-perl
 	$ sudo apt-get install -y libnetpacket-perl
-
-	
-
-	
-
+---
 ### Note 
 
 This code has been released as a PoC, and it does not pretend to be a hacking malicious tool. That is why real time sniffing has been disabled in this first version, to prevent from script kiddies. 
