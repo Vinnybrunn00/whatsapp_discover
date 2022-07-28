@@ -5,7 +5,7 @@ A tool for getting phone numbers of devices using Whatsapp by real time sniffing
 ---
 
 # Installing perl dependencies for ubuntu
-### OBS
+### Obs
 
 If these dependencies are not installed, **whatsapp_discover.pl** will not work.
 
